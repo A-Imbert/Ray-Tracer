@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Projects\\Ray-Tracing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F701B77-ACD4-73EE-57D0-B5B3FE7FEA94}|Assembly-CSharp.csproj|d:\\unity projects\\ray-tracing\\assets\\raytracing.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5F701B77-ACD4-73EE-57D0-B5B3FE7FEA94}|Assembly-CSharp.csproj|solutionrelative:assets\\raytracing.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F701B77-ACD4-73EE-57D0-B5B3FE7FEA94}|Assembly-CSharp.csproj|d:\\unity projects\\ray-tracing\\assets\\raytracingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F701B77-ACD4-73EE-57D0-B5B3FE7FEA94}|Assembly-CSharp.csproj|solutionrelative:assets\\raytracingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F701B77-ACD4-73EE-57D0-B5B3FE7FEA94}|Assembly-CSharp.csproj|D:\\Unity Projects\\Ray-Tracing\\assets\\raytracingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F701B77-ACD4-73EE-57D0-B5B3FE7FEA94}|Assembly-CSharp.csproj|solutionrelative:assets\\raytracingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RayTracingObject.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Ray-Tracing\\Assets\\RayTracingObject.cs",
+              "RelativeDocumentMoniker": "Assets\\RayTracingObject.cs",
+              "ToolTip": "D:\\Unity Projects\\Ray-Tracing\\Assets\\RayTracingObject.cs",
+              "RelativeToolTip": "Assets\\RayTracingObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:57:26.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RayTracingManager.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Ray-Tracing\\Assets\\RayTracingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RayTracingManager.cs",
+              "ToolTip": "D:\\Unity Projects\\Ray-Tracing\\Assets\\RayTracingManager.cs",
+              "RelativeToolTip": "Assets\\RayTracingManager.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwHgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T22:02:12.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RayTracing.shader",
+              "DocumentMoniker": "D:\\Unity Projects\\Ray-Tracing\\Assets\\RayTracing.shader",
+              "RelativeDocumentMoniker": "Assets\\RayTracing.shader",
+              "ToolTip": "D:\\Unity Projects\\Ray-Tracing\\Assets\\RayTracing.shader",
+              "RelativeToolTip": "Assets\\RayTracing.shader",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-08-21T22:02:52.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
